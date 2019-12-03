@@ -1,2 +1,2 @@
 # vuln
-For CVE and CNVD.
+For CVE and CNVD, see the Issues.
